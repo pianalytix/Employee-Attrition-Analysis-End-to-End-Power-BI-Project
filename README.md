@@ -12,17 +12,11 @@ Welcome! This guide will walk you through building a comprehensive **Employee At
 2. **Visualization Creation** – Build compelling charts and visuals for insights on employee attrition.
 3. **Interactive Dashboard Design** – Assemble and refine an interactive dashboard to explore attrition trends.
 
-
-
 ## Full Tutorial Video
 
 Follow the complete step-by-step tutorial on YouTube to build your dashboard:
 
 [Watch on YouTube: Employee Attrition Analysis Power BI Project](https://www.youtube.com/watch?v=ZWoU03dEu40)
-
-Or, view it here:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZWoU03dEu40?si=cneSBUKNUAL_wJMG&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Get Started
 
