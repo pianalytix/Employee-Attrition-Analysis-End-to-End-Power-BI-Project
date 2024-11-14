@@ -1,26 +1,27 @@
-# End-to-End Power BI Project Tutorial: Employee Attrition Analysis
+# Employee Attrition Analysis Power BI Project
 
-## Employee Attrition Power BI Dashboard
+Welcome! This guide will walk you through building a comprehensive **Employee Attrition Analysis Dashboard** using Power BI, covering everything from data import to dashboard creation.
 
-![Employee Attrition Power BI Dashboard](https://github.com/pianalytix/Employee-Attrition-Analysis-End-to-End-Power-BI-Project/blob/main/Power%20BI.png?raw=true)
+## Key Steps in This Tutorial
 
-Welcome to the tutorial for the **Employee Attrition Analysis** project. This tutorial guides you through an end-to-end process of analyzing employee attrition using Power BI. You will learn how to:
+1. **Data Import and Cleaning** – Learn to bring in and prep data for analysis.
+2. **Visualization Creation** – Build compelling charts and visuals for insights on employee attrition.
+3. **Interactive Dashboard Design** – Assemble and refine an interactive dashboard to explore attrition trends.
 
-- Import and clean data
-- Create various visualizations
-- Develop an interactive Power BI dashboard
+## Preview: Employee Attrition Power BI Dashboard
 
-## Watch the Full Tutorial
+![Dashboard Preview](https://github.com/pianalytix/Employee-Attrition-Analysis-End-to-End-Power-BI-Project/blob/main/Power%20BI.png?raw=true)
 
-This project tutorial is available in full on YouTube. Watch the video below to learn how to create your own **Employee Attrition Analysis** dashboard:
+## Full Tutorial Video
 
-[Watch on YouTube: Employee Attrition Analysis - Power BI Project](https://www.youtube.com/watch?v=ZWoU03dEu40)
+Follow the complete step-by-step tutorial on YouTube to build your dashboard:
 
-Alternatively, you can view the video embedded here:
+[Watch on YouTube: Employee Attrition Analysis Power BI Project](https://www.youtube.com/watch?v=ZWoU03dEu40)
+
+Or, view it here:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZWoU03dEu40" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
+## Get Started
 
-Feel free to clone or fork this repository to follow along with the tutorial. If you have any questions, don't hesitate to open an issue in this repository.
-
+Clone or fork this repository to work along with the tutorial. For questions, please open an issue. Happy learning!
